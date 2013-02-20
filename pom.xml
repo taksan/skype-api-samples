@@ -22,7 +22,7 @@
 		<dependency>
 			<groupId>com.github.taksan</groupId>
 			<artifactId>skype-java-api</artifactId>
-			<version>1.4</version>
+			<version>1.5</version>
 		</dependency>
 	</dependencies>
 </project>
