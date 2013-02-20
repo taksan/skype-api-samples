@@ -28,6 +28,6 @@ public class SendChatMessage {
             System.out.println("Usage: java com.skype.sample.SendChatMessage 'skype_id' 'chat_message'");
             return;
         }
-        Skype.chat("echo123").send("wohoo");
+        Skype.chat(args[0]).send(args[1]);
     }
 }
